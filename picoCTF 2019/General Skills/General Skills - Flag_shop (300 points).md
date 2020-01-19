@@ -98,7 +98,7 @@ picoCTF{m0n3y_bag5_34c9a5f7}
 
 Walking through the store, we guess that we have to buy the *1337 flags*. Guess what, we don't have enough money for this...
 
-Looking at the store source, there is an intesting here :
+Looking at the store source, there is an interesting thing here :
 
 ```C
 int total_cost = 0; (4 bytes / signed)
