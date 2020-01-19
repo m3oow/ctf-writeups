@@ -5,7 +5,7 @@
 
 *What is 0x3D (base 16) in decimal (base 10).*
 
-![Challenge](../images/general_skills_2warm_challenge.png)
+![Challenge](../images/general_skills_warmed_up_challenge.png)
 
 ## Flag
 
@@ -13,4 +13,4 @@ picoCTF{101010}
 
 ## Walkthrough
 
-Pas vraiment de difficulté, peut-être fait avec n'importe quel outil web de conversion ou la calculatrice Windows en mode programmeur.
+Can be done manually, ou using any conversion tool available on Internet.

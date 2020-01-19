@@ -13,7 +13,7 @@ picoCTF{5tRIng5_1T_dd38f284}
 
 ## Walkthrough
 
-Le challenge consiste à lister l'ensemble des chaines de caractères de l'executable fourni et d'identifier le flag via `strings` et `grep` :
+For this challenge, you have to go through each string of a binary file to find the flag using `strings` and `grep` :
 
 ```bash
 m3oow@pico-2019-shell1:/problems/strings-it_5_1fd17da9526a76a4fffce289dee10fbb$ strings strings | grep -i "picoctf{"

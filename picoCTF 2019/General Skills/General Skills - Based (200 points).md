@@ -13,13 +13,7 @@ picoCTF{learning_about_converting_values_e67b1990}
 
 ## Walkthrough
 
-Le endpoint *2019shell1.picoctf.com 29594* impose une série de conversion vers de l'ASCII, le résultat de la conversion doit être saisi à chaque étape en moins de 45 secondes :
-
-* Binary ==> ASCII
-* Octal ==> ASCII
-* Hex ==> ASCII
-
-Le challenge peut être réalisé avec l'aide du site [https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html).
+For this flag, you have to perform a series of conversion from Binary, Octal and Hex to ASCII. The result of each conversion has to be entered manually, but you've got enough time to use an external tool (like [https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html](https://www.rapidtables.com/convert/number/ascii-hex-bin-dec-converter.html)).
 
 ```bash
 m3oow@pico-2019-shell1:/problems/strings-it_5_1fd17da9526a76a4fffce289dee10fbb$ nc 2019shell1.picoctf.com 29594

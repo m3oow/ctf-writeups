@@ -13,6 +13,6 @@ picoCTF{r3source_pag3_f1ag}
 
 ## Walkthrough
 
-Le flag est affiché dans la page indiquée dans l'énoncé.
+The flag just have to be read in the linked page.
 
 ![Flag](../images/general_skills_resources_01.png)

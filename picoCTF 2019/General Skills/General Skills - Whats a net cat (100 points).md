@@ -13,7 +13,7 @@ picoCTF{nEtCat_Mast3ry_74df27a3}
 
 ## Walkthrough
 
-Utiliser la commande Netcat `nc` pour se connecter au *serveur:port* renseignés dans l'énoncé :
+Use the command `nc 2019shell1.picoctf.com 12265` :
 
 ```bash
 m3oow@pico-2019-shell1:/problems/strings-it_5_1fd17da9526a76a4fffce289dee10fbb$ nc 2019shell1.picoctf.com 12265

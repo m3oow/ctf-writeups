@@ -16,7 +16,7 @@ picoCTF{th3yr3_a5_d1ff3r3nt_4s_bu773r_4nd_j311y_aslkjfdsalkfslkflkjdsfdszmz10548
 The images seems to be the same, except for major artefacts in kitters.jpg indicating dirty changes in the file. A binary compare between the two files give us the flag :
 
 ```bash
-m3oow@pico-2019-shell1:/problems/whats-the-difference_0_00862749a2aeb45993f36cc9cf98a47a$ cmp -lb kitters.jpg cattos.jpg 
+m3oow@pico-2019-shell1:/problems/whats-the-difference_0_00862749a2aeb45993f36cc9cf98a47a$ cmp -lb kitters.jpg cattos.jpg
   49734 231 M-^Y 160 p
   49735 235 M-^] 151 i
   49736 230 M-^X 143 c

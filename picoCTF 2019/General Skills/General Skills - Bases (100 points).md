@@ -13,4 +13,4 @@ picoCTF{l3arn_th3_r0p35}
 
 ## Walkthrough
 
-Le flag est encodé en Base64, une conversion Base64 vers ASCII est suffisante.
+The flag is Base64 encoded, a Base64 to ASCII conversion (using for example Notepad++ plugin or the shell command `#echo bDNhcm5fdGgzX3IwcDM1 | base64 -d`).

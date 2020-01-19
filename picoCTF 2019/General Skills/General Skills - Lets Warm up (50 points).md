@@ -13,4 +13,4 @@ picoCTF{p}
 
 ## Walkthrough
 
-0x70 est le code Héxadécimal correspondant à la lettre "p" en ASCII (voir par exemple [asciitable.com](http://www.asciitable.com/)).
+0x70 is the Hex code for "p" letter in ASCII ([asciitable.com](http://www.asciitable.com/)).

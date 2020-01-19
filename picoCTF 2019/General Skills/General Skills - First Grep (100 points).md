@@ -13,7 +13,7 @@ picoCTF{grep_is_good_to_find_things_ad4e9645}
 
 ## Walkthrough
 
-Le challenge consiste à effectuer un grep du flag dans un répertoire donné en énoncé :
+For this challenge, you have to perform a grep inside a folder :
 
 ```bash
 m3oow@pico-2019-shell1:~$ grep -i "picoCTF{" /problems/first-grep_4_6b0be85ad029e98c683231bdafec396c/*
