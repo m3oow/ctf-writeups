@@ -5,7 +5,7 @@
 
 *I wrote you a song. Put it in the picoCTF{} flag format.*
 
-![Challenge](../images/general_skills_mus1c_challenge.png)
+![Challenge](../_images/general_skills_mus1c_challenge.png)
 
 ```text
 Pico's a CTFFFFFFF

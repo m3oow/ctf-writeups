@@ -5,7 +5,7 @@
 
 *Can you convert the number 42 (base 10) to binary (base 2)?*
 
-![Challenge](../images/general_skills_2warm_challenge.png)
+![Challenge](../_images/general_skills_2warm_challenge.png)
 
 ## Flag
 

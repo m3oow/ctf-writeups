@@ -5,7 +5,7 @@
 
 *There's a flag shop selling stuff, can you buy a flag? Source. Connect with nc 2019shell1.picoctf.com 60851.*
 
-![Challenge](../images/general_skills_flag_shop_challenge.png)
+![Challenge](../_images/general_skills_flag_shop_challenge.png)
 
 ```C
 #include <stdio.h>

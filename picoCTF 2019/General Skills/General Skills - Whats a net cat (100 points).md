@@ -5,7 +5,7 @@
 
 *Using netcat (nc) is going to be pretty important. Can you connect to 2019shell1.picoctf.com at port 12265 to get the flag?.*
 
-![Challenge](../images/general_skills_whats_a_net_cat_challenge.png)
+![Challenge](../_images/general_skills_whats_a_net_cat_challenge.png)
 
 ## Flag
 

@@ -5,7 +5,7 @@
 
 *I've used a super secret mind trick to hide this file. Maybe something lies in /problems/where-is-the-file_0_cc140a3ba634658b98122a1954c1316a.*
 
-![Challenge](../images/general_skills_where-is-the-file_challenge.png)
+![Challenge](../_images/general_skills_where-is-the-file_challenge.png)
 
 ## Flag
 

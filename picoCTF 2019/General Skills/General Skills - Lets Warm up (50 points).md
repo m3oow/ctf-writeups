@@ -5,7 +5,7 @@
 
 *If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?*
 
-![Challenge](../images/general_skills_lets_warm_up_challenge.png)
+![Challenge](../_images/general_skills_lets_warm_up_challenge.png)
 
 ## Flag
 
