@@ -5,7 +5,7 @@
 
 *What does this bDNhcm5fdGgzX3IwcDM1 mean? I think it has something to do with bases.*
 
-![Challenge](../_images/general_skills_bases_challenge.png)
+![Challenge](./_images/general_skills_bases_challenge.png)
 
 ## Flag
 

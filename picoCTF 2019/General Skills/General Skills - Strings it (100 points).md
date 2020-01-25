@@ -5,7 +5,7 @@
 
 *Can you find the flag in file without running it? You can also find the file in /problems/strings-it_5_1fd17da9526a76a4fffce289dee10fbb on the shell server.*
 
-![Challenge](../_images/general_skills_strings_it_challenge.png)
+![Challenge](./_images/general_skills_strings_it_challenge.png)
 
 ## Flag
 
