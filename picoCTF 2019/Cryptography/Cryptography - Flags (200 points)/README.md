@@ -5,7 +5,7 @@
 
 *What do the flags mean?*
 
-![Challenge](./_images/cryptography_flags_challenge.png)
+![Challenge](./flag.png)
 
 ## Flag
 

@@ -5,7 +5,7 @@
 
 *The numbers... what do they mean?*
 
-![Challenge](./_images/cryptography_the_numbers_challenge.png)
+![Challenge](./the_numbers.png)
 
 ## Flag
 

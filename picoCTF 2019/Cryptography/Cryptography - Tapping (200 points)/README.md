@@ -15,7 +15,7 @@ After a connection to `2019shell1.picoctf.com:37911`, we receive what seems to b
 
 ```bash
 root@kali:~/Downloads# nc 2019shell1.picoctf.com 37911
-.--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. ..--- ..--- -.... ..... ----. ...-- --... -.... -.... ...-- } 
+.--. .. -.-. --- -.-. - ..-. { -- ----- .-. ... ...-- -.-. ----- -.. ...-- .---- ... ..-. ..- -. ..--- ..--- -.... ..... ----. ...-- --... -.... -.... ...-- }
 ```
 
 We get the flag after [decoding](https://www.dcode.fr/code-morse) the morse message: `PICOCTF{M0RS3C0D31SFUN2265937663}`

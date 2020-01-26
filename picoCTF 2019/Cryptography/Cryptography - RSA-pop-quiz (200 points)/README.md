@@ -7,8 +7,6 @@
 
 ## Flag
 
-
-
 ## Walkthrough
 
 After a connection to `2019shell1.picoctf.com:49989`, we have to answer several questions about RSA algorithm.

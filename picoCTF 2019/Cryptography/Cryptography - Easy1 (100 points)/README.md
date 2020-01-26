@@ -3,10 +3,12 @@
 
 ## Challenge
 
-*The one time pad can be cryptographically secure, but not when you know the key. Can you solve this? We've given you the encrypted flag, key, and a table to help UFJKXQZQUNB with the key of SOLVECRYPTO. Can you use this table to solve it?.*
+*The one time pad can be cryptographically secure, but not when you know the key. Can you solve this? We've given you the encrypted flag, key, and a [table](./table.txt) to help UFJKXQZQUNB with the key of SOLVECRYPTO. Can you use this table to solve it?.*
+
+`table.txt` content:
 
 ```raw
-    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
+    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
    +----------------------------------------------------
 A | A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 B | B C D E F G H I J K L M N O P Q R S T U V W X Y Z A
