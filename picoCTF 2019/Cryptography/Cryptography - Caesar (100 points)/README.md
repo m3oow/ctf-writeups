@@ -3,7 +3,7 @@
 
 ## Challenge
 
-*Decrypt this message. You can find the ciphertext in /problems/caesar_5_d706b250ed3c6d2d2c72155de301a2f1 on the shell server.*
+*Decrypt this [message](./ciphertext). You can find the ciphertext in /problems/caesar_5_d706b250ed3c6d2d2c72155de301a2f1 on the shell server.*
 
 ```raw
 picoCTF{dspttjohuifsvcjdpobqjtwtvk}
