@@ -16,4 +16,25 @@ ciphertext (c): 2205316413931134031074603746928247799030155221252519872650101242
 
 ## Flag
 
+picoCTF{n33d_a_lArg3r_e_ff7cfba1}
+
 ## Walkthrough
+
+Let's see what Wikipedia tells us about [RSA Cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem)). Lots of interesting crypto things and this:
+*When encrypting with low encryption exponents (e.g., e = 3) and small values of the m, (i.e., m < n1/e) the result of me is strictly less than the modulus n. In this case, ciphertexts can be easily decrypted by taking the eth root of the ciphertext over the integers.*
+
+Guess what, e is small and m < n^(1/e), so we just have to compute the cube square of the ciphertext to get the flag. We can use Python GMPY2 module for this:
+
+```python
+Python 3.7.5 (default, Oct 27 2019, 15:43:29)
+[GCC 9.2.1 20191022] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import gmpy2
+>>> gs = gmpy2.mpz("2205316413931134031074603746928247799030155221252519872650101242908540609117693035883827878696406295617513907962419726541451312273821810017858485722109359971259158071688912076249144203043097720816270550387459717116098817458584146690177125")
+>>> ge = gmpy2.mpz("3")
+>>> square, thing = gmpy2.iroot(gs,ge)
+>>> print(square)
+13016382529449106065894479374027604750406953699090365388203763573255485427626365
+```
+
+All we have to do is to convert *square* in ascii and we got the flag: picoCTF{n33d_a_lArg3r_e_ff7cfba1}.
