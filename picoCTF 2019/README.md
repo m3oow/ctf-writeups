@@ -3,4 +3,4 @@
 
 Current progression:
 
-![Status](./_images\status.png)
+![Status](./_images/status.png)
