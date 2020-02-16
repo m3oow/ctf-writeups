@@ -18,8 +18,8 @@ picoCTF{nongshim.shrimp.crackers}
 
 This one is pretty easy using Wireshark. The capture is an encrypted HTTP exchange using TLS with the corresponding private key. The exchange is secured using TLSv1.2 and TLS_RSA_WITH_AES_256_GCM_SHA354. So, knowing the private key, we can easily decrypt the whole exchange by just adding the key in wireshark preferences for TLS protocol:
 
-![TLS](./_images\forensics_webnet0_wireshark_1.png)
+![TLS](./_images/forensics_webnet0_wireshark_1.png)
 
 Which gives us the following unecnrypted trafic, and the flag included in the response headers (header *Pico-Flag*):
 
-![flag](./_images\forensics_webnet0_wireshark_2.png)
+![flag](./_images/forensics_webnet0_wireshark_2.png)
